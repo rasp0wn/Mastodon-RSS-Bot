@@ -19,5 +19,13 @@ You can also modify the RssList.json file in the Configuration folder to track t
 # 🚀 Usage
 To use the bot, simply run the MastodonRssBot executable. The bot will periodically check for new articles in the RSS feeds and post them to your Mastodon account.
 
+1. Clone the repository to your local machine.
+2. Navigate to the `MastodonRssBot` folder.
+3. Fill in the necessary details in the `MastodonAPI.json` file located in the `Configuration` folder. This includes your Mastodon instance, Mastodon app ID, and Mastodon access token.
+4. Modify the `RssList.json` file in the `Configuration` folder to include the RSS feed URLs you want to track.
+5. Compile the project using your preferred IDE or by running `dotnet build` in the command line.
+6. Run the compiled executable in the `bin` folder.
+7. Check the Logs folder for the daily rotated log file `MastodonRssPosterLog.txt`.
+
 # 📄 License
 This project is licensed under the MIT License.
