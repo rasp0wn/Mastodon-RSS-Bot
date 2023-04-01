@@ -31,7 +31,7 @@ To use the bot, simply run the MastodonRssBot executable. The bot will periodica
 This project is licensed under the MIT License.
 
 # 📧 Contact
-If you have any questions or comments, you can contact me through my Mastodon account: `🐘 mastodon.social@NoticiasTecnologicasBot.`
+If you have any questions or comments, you can contact me through my Mastodon account: `🐘 mastodon.social@NoticiasTecnologicasBot`.
 
 Also, feel free to check out the bot in action from there!
 
