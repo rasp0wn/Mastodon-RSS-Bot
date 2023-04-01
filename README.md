@@ -19,15 +19,32 @@ You can also modify the `RssList.json` file in the `Configuration` folder to tra
 # 🚀 Usage
 To use the bot, simply run the MastodonRssBot executable. The bot will periodically check for new articles in the RSS feeds and post them to your Mastodon account.
 
-1. Clone the repository to your local machine.
-2. Navigate to the `MastodonRssBot` folder.
-3. Fill in the necessary details in the `MastodonAPI.json` file located in the `Configuration` folder. This includes your Mastodon instance, Mastodon app ID, and Mastodon access token.
-4. Modify the `RssList.json` file in the `Configuration` folder to include the RSS feed URLs you want to track.
-5. Compile the project using your preferred IDE or by running `dotnet build` in the command line.
-6. Run the compiled executable in the `bin` folder.
-7. Check the `Logs` folder for the daily rotated log file `MastodonRssPosterLog.txt`.
+1. Download the latest release from the releases page.
+2. Extract the zip file to a directory of your choice.
+3. Navigate to the `MastodonRssPoster` directory.
+4. Open the `Configuration` directory and modify the `MastodonAPI.json` and `RssList.json` files to your liking.
+5. Run the `MastodonRssPoster` executable. The bot will now start running.
 
-> **Note:** Soon, releases for Windows and ARM will be published so that you don't have to compile the entire project if you don't want to. 
+## 📝 Note
+- .NET 6 must be installed on the machine for the bot to work. Please make sure you have .NET 6 installed before running the bot.
+
+
+# 🍓 Working on Raspberry Pi
+To run the bot on a Raspberry Pi, follow these steps:
+
+1. Install .NET on your Raspberry Pi by following the instructions on this [blog post](https://blog.behroozbc.ir/install-net-on-a-raspberry-pi).
+2. Download the latest release for ARM from the releases page.
+3. Extract the zip file to a directory of your choice.
+4. Navigate to the `MastodonRssPoster` directory.
+5. Open the Configuration directory and modify the `MastodonAPI.json` and `RssList.json` files to your liking.
+6. Run the `MastodonRssPoster` executable. The bot will now start running.
+
+![Bot working on a raspberry pi 3B+](https://i.ibb.co/YX4zFF4/image.png)
+
+
+
+# 🧪 Testing
+This project is pending testing.
 
 # 📄 License
 This project is licensed under the MIT License.
