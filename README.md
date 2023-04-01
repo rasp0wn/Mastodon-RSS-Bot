@@ -35,5 +35,5 @@ If you have any questions or comments, you can contact me through my Mastodon ac
 
 Also, feel free to check out the bot in action from there!
 
-🙏 Acknowledgements
+# 🙏 Acknowledgements
 This project was made with the help of ChatGPT, a language model developed by OpenAI, and the README was created by me. Thank you, ChatGPT! 🤖💙
