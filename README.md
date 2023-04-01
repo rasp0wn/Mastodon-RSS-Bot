@@ -25,7 +25,15 @@ To use the bot, simply run the MastodonRssBot executable. The bot will periodica
 4. Modify the `RssList.json` file in the `Configuration` folder to include the RSS feed URLs you want to track.
 5. Compile the project using your preferred IDE or by running `dotnet build` in the command line.
 6. Run the compiled executable in the `bin` folder.
-7. Check the Logs folder for the daily rotated log file `MastodonRssPosterLog.txt`.
+7. Check the `Logs` folder for the daily rotated log file `MastodonRssPosterLog.txt`.
 
 # 📄 License
 This project is licensed under the MIT License.
+
+# 📧 Contact
+If you have any questions or comments, you can contact me through my Mastodon account: `🐘 mastodon.social@NoticiasTecnologicasBot.`
+
+Also, feel free to check out the bot in action from there!
+
+🙏 Acknowledgements
+This project was made with the help of ChatGPT, a language model developed by OpenAI, and the README was created by me. Thank you, ChatGPT! 🤖💙
