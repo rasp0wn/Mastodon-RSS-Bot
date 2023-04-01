@@ -1,0 +1,10 @@
+﻿{
+  "URLS": [
+    "https://www.xataka.com/feedburner.xml",
+    "https://elchapuzasinformatico.com/feed/",
+    "https://www.genbeta.com/feedburner.xml",
+    "https://www.elespanol.com/rss/omicrono/",
+    "https://www.elespanol.com/rss/elandroidelibre/",
+    "https://feeds.feedburner.com/topesdegama" //Change this to get your RSS feed
+  ]
+}

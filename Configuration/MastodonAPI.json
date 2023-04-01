@@ -1,0 +1,5 @@
+﻿{
+  "MastodonInstance": "mastodon.social", //Change this to your mastodon instance if necessary 
+  "MastodonAppID": "PUT_HERE_YOUR_APP_ID",
+  "MastodonAccessToken": "PUT_HERE_YOUR_ACCESS_TOKEN"
+}
