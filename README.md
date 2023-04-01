@@ -27,6 +27,8 @@ To use the bot, simply run the MastodonRssBot executable. The bot will periodica
 6. Run the compiled executable in the `bin` folder.
 7. Check the `Logs` folder for the daily rotated log file `MastodonRssPosterLog.txt`.
 
+> **Note:** Soon, releases for Windows and ARM will be published so that you don't have to compile the entire project if you don't want to. 
+
 # 📄 License
 This project is licensed under the MIT License.
 
